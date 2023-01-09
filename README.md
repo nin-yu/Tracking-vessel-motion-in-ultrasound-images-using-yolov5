@@ -11,16 +11,16 @@ Real-time detection and frame rate of around 70FPS can be achieved
 #Enviroment
 
 **Python:**
-Python 3.7
-torch 1.7.1
+- Python 3.7
+- torch 1.7.1
 
 **C++:**
-VS：2019
-opencv：4.5.4 vc15
-libtorch：libtorch1.7.1 for cuda110
-cuda : cudnn cuda11.0
+- VS：2019
+- opencv：4.5.4 vc15
+- libtorch：libtorch1.7.1 for cuda110
+- cuda : cudnn cuda11.0
 
 **C#:**
-.Net Framework 4.7.2
-OpencvSharp4
+- .Net Framework 4.7.2
+- OpencvSharp4
 
