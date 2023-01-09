@@ -7,3 +7,20 @@ Liver Ultrasound Vascular Tracking Task in Accurate Radiotherapy Guided by Ultra
 # Effect
 Real-time detection and frame rate of around 70FPS can be achieved
 ![1673247730556-92538312-0a5d-47eb-a8eb-d3269b1ec13b](https://user-images.githubusercontent.com/56248224/211257245-843bb765-0c4c-4b12-9c00-93631360ef63.png)
+
+#Enviroment
+
+**Python:**
+Python 3.7
+torch 1.7.1
+
+**C++:**
+VS：2019
+opencv：4.5.4 vc15
+libtorch：libtorch1.7.1 for cuda110
+cuda : cudnn cuda11.0
+
+**C#:**
+.Net Framework 4.7.2
+OpencvSharp4
+
