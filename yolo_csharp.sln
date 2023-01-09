@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yolo_csharp", "yolo_csharp\yolo_csharp.csproj", "{5326871C-05B7-4034-B12E-358A9D8751B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Debug|x64.ActiveCfg = Debug|x64
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Debug|x64.Build.0 = Debug|x64
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Release|x64.ActiveCfg = Release|x64
+		{5326871C-05B7-4034-B12E-358A9D8751B6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C538F017-AB74-4124-9CB7-523C78EA153E}
+	EndGlobalSection
+EndGlobal
